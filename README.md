@@ -17,6 +17,7 @@ This script allows you to set a custom frame rate for Roblox on macOS.
    ```bash
    chmod +x fpsunlocker
 5. **Your Terminal should look like this**
+   
    ![image](https://github.com/user-attachments/assets/6cd1276b-937c-4dd0-a174-8269c6230fa8)
 
 
