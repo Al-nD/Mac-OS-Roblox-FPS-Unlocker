@@ -2,9 +2,9 @@
 
 This script allows you to set a custom frame rate for Roblox on macOS.
 
-## Installation + Usage
+## Installation
 
-1. **Switch to your Desktop Folder**:
+1. **Open up Terminal and Use This Command**:
    ```bash
    cd ~/Desktop
 2. **Clone this repository onto your Desktop with this code**:
