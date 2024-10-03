@@ -1,4 +1,4 @@
-# Mac-OS Roblox FPS Unlocker
+# Mac-OS Roblox FPS Unlocker V1.01
 
 This script allows you to set a custom frame rate for Roblox on macOS.
 
