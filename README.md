@@ -29,7 +29,12 @@ This script allows you to set a custom frame rate for Roblox on macOS.
    <img width="494" alt="image" src="https://github.com/user-attachments/assets/77acc7cc-2c3f-4d5c-8b7a-2b512fbe8459">
 
 9. ** Type in the amount of FPS you prefer **
+   
     ![image](https://github.com/user-attachments/assets/ec4ca4e3-e520-4f7a-ba58-631173c82340)
+
+10. ** Should be good! Have Fun! **
+
+   ![image](https://github.com/user-attachments/assets/c9eac427-fdb6-4fee-95c7-57c899c38b0d)
 
 
 
